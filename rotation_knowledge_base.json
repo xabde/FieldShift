@@ -1,0 +1,41 @@
+{
+  "note": "Illustrative starter crop attributes; validate locally before use.",
+  "crops": {
+    "Wheat": {
+      "water": "High",
+      "legume": false,
+      "cover": false,
+      "temp_opt": 17
+    },
+    "Chickpea": {
+      "water": "Low",
+      "legume": true,
+      "cover": false,
+      "temp_opt": 18
+    },
+    "Lentil": {
+      "water": "Low",
+      "legume": true,
+      "cover": false,
+      "temp_opt": 16
+    },
+    "Barley": {
+      "water": "Medium",
+      "legume": false,
+      "cover": false,
+      "temp_opt": 16
+    },
+    "Cover crop mix": {
+      "water": "Medium",
+      "legume": true,
+      "cover": true,
+      "temp_opt": 15
+    },
+    "Faba bean": {
+      "water": "Medium",
+      "legume": true,
+      "cover": false,
+      "temp_opt": 15
+    }
+  }
+}
